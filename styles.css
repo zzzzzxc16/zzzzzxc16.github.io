@@ -223,6 +223,20 @@ p { margin: 10px 0; }
   font-size: 12px;
 }
 
+.personal-note {
+  margin-top: 36px;
+}
+
+.personal-note h2 {
+  margin-bottom: 8px;
+  font-size: 22px;
+}
+
+.personal-note p {
+  margin: 0;
+  font-size: 14px;
+}
+
 footer {
   margin-top: 42px;
   padding-top: 16px;
