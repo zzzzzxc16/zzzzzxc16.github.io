@@ -223,6 +223,20 @@ p { margin: 10px 0; }
   font-size: 12px;
 }
 
+.institution-entry--previous {
+  margin-top: 24px;
+}
+
+.institution-entry--previous h3 {
+  font-weight: 500;
+}
+
+.institution-info .institution-summary {
+  margin-top: 8px;
+  color: #62656a;
+  font-size: 13px;
+}
+
 .personal-note {
   margin-top: 36px;
 }
